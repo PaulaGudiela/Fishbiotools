@@ -11,5 +11,5 @@ setup(
                 'funciones enfocadas en tablas con datos de morfometria las cuales  estandarizan, filtran y transforman. Las funciones en zip_iterator logran separar las partes de un zip en diferentes carpetas y mitogenome logra hacer un análisis de integridad de las secuencias descargadas', 
     author='Paula Gudiela Orrego Suarez - Daniel Alfredo Gomez Chavarria',
     author_email='porregos@unal.edu.co','dgomezch@unal.edu.co' # Tu email
-    url='',   # (opcional) URL de tu proyecto o GitHub
+   
 )
