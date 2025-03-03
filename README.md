@@ -9,12 +9,12 @@ Procesar archivos ZIP: Renombrado y extracción de archivos ZIP según su conten
 Para utilizar Fishbiotools es necesario tener instaladas las siguientes dependencias:
 
 Python 3.x
-Pandas
-NumPy
-Openpyxl (para manejo de archivos Excel)
-BioPython (para análisis de archivos GenBank)
-Matplotlib (para la generación de gráficos)
-Shutil y Zipfile (módulos estándar de Python)
+- Pandas
+- NumPy
+- Openpyxl (para manejo de archivos Excel)
+- BioPython (para análisis de archivos GenBank)
+- Matplotlib (para la generación de gráficos)
+- Shutil y Zipfile (módulos estándar de Python)
 
 ## Uso
 ### Procesamiento de archivos Excel
