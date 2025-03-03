@@ -53,6 +53,11 @@ La ruta del archivo Excel y la operación a realizar.
 La carpeta que contiene archivos GenBank (.gbk) y la opción de generar reportes y gráficos.
 La carpeta que contiene archivos ZIP para su procesamiento.
 
+## Archivos de prueba: 
+Se sugiere probar el paquete con la carpeta zips y el archivo de excel denominado DATOS_ACTUALIZADOS.xlsx
+El archivo zips se usa con el modulo zip_iterator y la carpeta gbk_files generada por este modulo es la que se usa en el modulo mitogenome_int. 
+El archivo excel se usa para el módulo Fishbiotools_morfo, este  es un archivo crudo que debe pasar por todas las funciones que tiene el módulo, haciendo referencia a que el excel generado por cada función será el archivo base de la siguiente función. 
+
 ## Licencia
 Este proyecto se distribuye bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
 
